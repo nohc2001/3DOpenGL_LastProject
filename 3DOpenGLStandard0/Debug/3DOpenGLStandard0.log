@@ -1,0 +1,162 @@
+﻿  Source.cpp
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(159,10): warning C4101: 'save' :참조되지 않은 지역 변수입니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(423,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(427,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(551,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(724,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(731,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(735,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(851,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(858,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\SpaceMath.h(870,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(92,10): warning C4244: '=': 'double'에서 'byte8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(98,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(166,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(173,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(178,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(200,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(210,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(222,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(232,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(245,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(70,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'vec3uint' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(78,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'vertexData' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(108,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'GLShapeOrigin' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(812,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(867,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(912,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1008,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1024,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1040,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1057,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1065,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1073,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1097,25): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1157,25): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1215,25): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1288,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1383,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1393,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1403,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1414,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1422,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1430,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1907,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(1956,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2230,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2279,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2431,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'AnimKey' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2464,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2480,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2481,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2483,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2507,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2544,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2572,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2574,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2591,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2598,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2663,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2672,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2682,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2685,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2694,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2712,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2719,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2728,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2848,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'NPCScript' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3058,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3237,12): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3238,12): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3396,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3579,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3650,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3807,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'collidRelation' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3815,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'PostObjData' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3823,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Hitbox' 왼쪽은 무시됩니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3893,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3901,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3907,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3947,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3971,13): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3972,13): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4019,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4023,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4075,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4088,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4221,53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4339,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4836,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4921,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4954,36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5102,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5114,68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5156,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5159,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5183,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5191,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5202,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5210,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5224,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5225,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5237,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5282,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5307,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5324,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5334,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5344,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5408,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5457,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6048,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6137,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6168,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6327,36): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6341,27): warning C4244: '=': 'FT_Int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6345,53): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6350,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6353,27): warning C4244: '=': 'FT_Int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6359,37): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6362,53): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6414,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6475,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6476,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6490,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6490,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6491,61): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6491,43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6492,109): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6492,93): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6492,70): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6492,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6497,20): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6498,19): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6503,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6506,33): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6509,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6512,19): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6596,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6596,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6597,62): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6597,44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6598,110): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6598,94): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6598,71): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6598,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6601,20): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6602,19): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6607,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6610,33): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6613,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6616,19): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6630,32): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6630,22): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(6658,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(289,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(281): message : 클래스 템플릿 멤버 함수 'void InfiniteArray<PostObjData>::Init(size_t)'을(를) 컴파일하는 중입니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(5250): message : 컴파일되는 함수 템플릿 인스턴스화 'void InfiniteArray<PostObjData>::Init(size_t)'에 대한 참조를 확인하세요.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(3862): message : 컴파일되는 클래스 템플릿 인스턴스화 'InfiniteArray<PostObjData>'에 대한 참조를 확인하세요.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(344,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\FreeMem.h(341): message : 클래스 템플릿 멤버 함수 'void InfiniteArray<Animation>::SetVPTR(void)'을(를) 컴파일하는 중입니다.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(4995): message : 컴파일되는 함수 템플릿 인스턴스화 'void InfiniteArray<Animation>::SetVPTR(void)'에 대한 참조를 확인하세요.
+C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\3DOpenGLStandard0\Source.cpp(2628): message : 컴파일되는 클래스 템플릿 인스턴스화 'InfiniteArray<Animation>'에 대한 참조를 확인하세요.
+  3DOpenGLStandard0.vcxproj -> C:\Users\nohc2\OneDrive\바탕 화면\대학활동\2학년\2학년 2학기\컴퓨터 그래픽스\3DOpenGLStandard0\Debug\3DOpenGLStandard0.exe
