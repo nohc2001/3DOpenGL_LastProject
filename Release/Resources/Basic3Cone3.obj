@@ -1,0 +1,33 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 19.10.2022 12:11:09
+
+mtllib Basic3Cone.mtl
+
+#
+# object Box001
+#
+
+v  -20.0000 0.0000 13.2348
+v  20.0000 0.0000 13.2348
+v  0.0000 26.0000 -0.0000
+v  0.0000 0.0000 -20.0000
+# 4 vertices
+
+vn -0.8256 -0.2874 0.4855
+vn 0.8256 -0.2874 0.4855
+vn 0.0000 0.9982 -0.0607
+vn 0.0000 -0.3199 -0.9474
+# 4 vertex normals
+
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 0.0000 1.0000 0.0000
+vt 1.0000 1.0000 0.0000
+# 4 texture coords
+
+o Box001
+g Box001
+usemtl wire_225143087
+f 2/1/2 1/2/1 4/4/4 
+# 0 polygons - 4 triangles
+
