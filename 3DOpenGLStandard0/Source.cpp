@@ -6700,5 +6700,7 @@ void DoDisplay() {
 	glDisable(GL_DEPTH_TEST);
 	glDisable(GL_CULL_FACE);
 
+	glFlush();
+
 	SwapBuffers(hdc);
 }
